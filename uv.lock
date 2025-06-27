@@ -14,6 +14,7 @@ dependencies = [
     { name = "chainlit" },
     { name = "dotenv" },
     { name = "litellm" },
+    { name = "openai" },
     { name = "openai-agents" },
     { name = "python-dotenv" },
 ]
@@ -23,6 +24,7 @@ requires-dist = [
     { name = "chainlit", specifier = ">=2.5.5" },
     { name = "dotenv", specifier = ">=0.9.9" },
     { name = "litellm", specifier = ">=1.72.0" },
+    { name = "openai", specifier = ">=1.83.0" },
     { name = "openai-agents", specifier = ">=0.0.16" },
     { name = "python-dotenv", specifier = ">=1.1.0" },
 ]
